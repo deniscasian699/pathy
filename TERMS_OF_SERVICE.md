@@ -81,7 +81,7 @@ For questions, support, bug reports, or legal inquiries regarding these Terms of
 
 - **Email:** [support@rdcapps.com](mailto:support@rdcapps.com)
 
-- **Website:** [deniscasian.com](https://deniscasian.com)
+- **Website:** [rdcapps.com](https://rdcapps.com)
 
 - **Bug reports:** [bugs.rdcapps.com](https://bugs.rdcapps.com/)
 
