@@ -234,7 +234,7 @@ Attribution: © GeoNames.
 
 | | |
 |---|---|
-| 🌐 Website | [deniscasian.com](https://deniscasian.com) |
+| 🌐 Website | [rdcapps.com](https://rdcapps.com) |
 | 📧 Support | [support@rdcapps.com](mailto:support@rdcapps.com) |
 | 🐛 Bug Reports | [bugs.rdcapps.com](https://bugs.rdcapps.com) |
 | 📱 App | [PATHY on Google Play](https://play.google.com/store/apps/details?id=com.pathydc) |
