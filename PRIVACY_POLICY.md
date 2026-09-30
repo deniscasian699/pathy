@@ -14,7 +14,7 @@
 
 **Contact:** [support@rdcapps.com](mailto:support@rdcapps.com)
 
-**Website:** [deniscasian.com](https://deniscasian.com)
+**Website:** [rdcapps.com](https://rdcapps.com)
 
 **Local travel data & advertising choices:** Your travel history and journals remain on your device. PATHY contains Google AdMob advertising and uses Google UMP to manage advertising privacy choices. These services may process technical and device information as described below. Development is funded by advertising and optional Supporter, Monthly Supporter, and Premium Lifetime purchases through RevenueCat and Google Play.
 
@@ -178,7 +178,7 @@ For privacy questions, requests, or complaints concerning this policy or PATHY's
 
 **Email:** [support@rdcapps.com](mailto:support@rdcapps.com)
 
-**Website:** [deniscasian.com](https://deniscasian.com)
+**Website:** [rdcapps.com](https://rdcapps.com)
 
 **Bug reports:** [bugs.rdcapps.com](https://bugs.rdcapps.com/)
 
