@@ -88,7 +88,7 @@ For purchase assistance, contact [support@rdcapps.com](mailto:support@rdcapps.co
 | **Download** | [Google Play](https://play.google.com/store/apps/details?id=com.pathydc) |
 | **Support email** | [support@rdcapps.com](mailto:support@rdcapps.com) |
 | **Bug reports** | [bugs.rdcapps.com](https://bugs.rdcapps.com) |
-| **Website** | [deniscasian.com](https://deniscasian.com) |
+| **Website** | [rdcapps](https://rdcapps) |
 
 ---
 
