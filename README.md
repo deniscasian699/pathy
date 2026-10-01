@@ -206,6 +206,8 @@ Attribution: © GeoNames.
 <img src="assets/screenshots/screen3tab.png" alt="Tablet timeline" width="280" />
 <img src="assets/screenshots/screen4tab.png" alt="Tablet discover" width="280" />
 <img src="assets/screenshots/screen5tab.png" alt="Tablet settings" width="280" />
+  <img src="assets/screenshots/screen6tab.png" alt="Tablet settings" width="280" />
+  <img src="assets/screenshots/screen7tab.png" alt="Tablet settings" width="280" />
 </details>
 
 ---
