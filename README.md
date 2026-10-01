@@ -196,7 +196,7 @@ Attribution: © GeoNames.
 
 ---
 
-## 📸 Tablet & Romanian Previews
+## 📸 Tablet 
 
 <details>
 <summary>Tablet screenshots</summary>
@@ -206,24 +206,6 @@ Attribution: © GeoNames.
 <img src="assets/screenshots/screen3tab.png" alt="Tablet timeline" width="280" />
 <img src="assets/screenshots/screen4tab.png" alt="Tablet discover" width="280" />
 <img src="assets/screenshots/screen5tab.png" alt="Tablet settings" width="280" />
-</details>
-
-<details>
-<summary>Romanian presentation</summary>
-<br>
-<img src="assets/Romanian/logo.png" alt="Logo PATHY" width="120" />
-<img src="assets/Romanian/banner.png" alt="Banner PATHY" width="100%" />
-<img src="assets/Romanian/screenshots/screen1.png" alt="Panou principal" width="180" />
-<img src="assets/Romanian/screenshots/screen2.png" alt="Hartă" width="180" />
-<img src="assets/Romanian/screenshots/screen3.png" alt="Cronologie" width="180" />
-<img src="assets/Romanian/screenshots/screen4.png" alt="Descoperă țări" width="180" />
-<img src="assets/Romanian/screenshots/screen5.png" alt="Setări" width="180" />
-<br>
-<img src="assets/Romanian/screenshots/screen1tab.png" alt="Panou pe tabletă" width="280" />
-<img src="assets/Romanian/screenshots/screen2tab.png" alt="Hartă pe tabletă" width="280" />
-<img src="assets/Romanian/screenshots/screen3tab.png" alt="Cronologie pe tabletă" width="280" />
-<img src="assets/Romanian/screenshots/screen4tab.png" alt="Țări pe tabletă" width="280" />
-<img src="assets/Romanian/screenshots/screen5tab.png" alt="Setări pe tabletă" width="280" />
 </details>
 
 ---
